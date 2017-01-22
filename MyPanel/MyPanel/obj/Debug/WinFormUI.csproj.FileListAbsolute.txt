@@ -1,0 +1,13 @@
+G:\Project\C#\MyPanel\MyPanel\bin\Debug\Guoyongrong.WinFormsUI.Docking.dll
+G:\Project\C#\MyPanel\MyPanel\bin\Debug\Guoyongrong.WinFormsUI.Docking.pdb
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\ResolveAssemblyReference.cache
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\Guoyongrong.WinFormsUI.Docking.AutoHideStripWindow.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\Guoyongrong.WinFormsUI.Docking.FormContent.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\Guoyongrong.WinFormsUI.Docking.DockPanel.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\Guoyongrong.WinFormsUI.Docking.FloatWindow.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\Guoyongrong.WinFormsUI.Resources.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\Guoyongrong.WinFormsUI.Strings.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\Guoyongrong.WinFormsUI.Docking.dll
+G:\Project\C#\MyPanel\MyPanel\obj\Debug\Guoyongrong.WinFormsUI.Docking.pdb

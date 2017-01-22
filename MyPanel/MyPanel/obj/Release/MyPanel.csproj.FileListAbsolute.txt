@@ -1,0 +1,11 @@
+G:\Project\C#\MyPanel\MyPanel\bin\Release\MyPanel.dll
+G:\Project\C#\MyPanel\MyPanel\bin\Release\MyPanel.pdb
+G:\Project\C#\MyPanel\MyPanel\obj\Release\ResolveAssemblyReference.cache
+G:\Project\C#\MyPanel\MyPanel\obj\Release\MyPanel.AutoHideWindow.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Release\MyPanel.DockPanel.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Release\MyPanel.Resources.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Release\MyPanel.Strings.resources
+G:\Project\C#\MyPanel\MyPanel\obj\Release\GenerateResource-ResGen.read.1.tlog
+G:\Project\C#\MyPanel\MyPanel\obj\Release\GenerateResource-ResGen.write.1.tlog
+G:\Project\C#\MyPanel\MyPanel\obj\Release\MyPanel.dll
+G:\Project\C#\MyPanel\MyPanel\obj\Release\MyPanel.pdb
